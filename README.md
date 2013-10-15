@@ -18,6 +18,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
 * [Angular Tips](http://angular-tips.com/)
 * [Egghead Tutorials](http://egghead.io/)
+* [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html?utm_source=ng-newsletter&utm_campaign=c8d675da59-AngularJS_Newsletter_10_15_1310_15_2013&utm_medium=email&utm_term=0_fa61364f13-c8d675da59-90131685)
 
 - - -
 
