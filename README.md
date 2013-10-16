@@ -21,7 +21,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html?utm_source=ng-newsletter&utm_campaign=c8d675da59-AngularJS_Newsletter_10_15_1310_15_2013&utm_medium=email&utm_term=0_fa61364f13-c8d675da59-90131685)
 * [Thinkster AngularJS Tutorials](http://www.thinkster.io/)
 * [The difference between services, factories and providers](http://jsfiddle.net/pkozlowski_opensource/PxdSP/14/)
-* [AngularJS Fundementals (I haven't seen a right-aligned site in a while)](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
+* [AngularJS Fundementals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
 
 - - -
 
