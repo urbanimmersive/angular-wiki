@@ -19,6 +19,9 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [Angular Tips](http://angular-tips.com/)
 * [Egghead Tutorials](http://egghead.io/)
 * [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html?utm_source=ng-newsletter&utm_campaign=c8d675da59-AngularJS_Newsletter_10_15_1310_15_2013&utm_medium=email&utm_term=0_fa61364f13-c8d675da59-90131685)
+* [Thinkster AngularJS Tutorials](http://www.thinkster.io/)
+* [The difference between services, factories and providers](http://jsfiddle.net/pkozlowski_opensource/PxdSP/14/)
+* [AngularJS Fundementals (I haven't seen a right-aligned site in a while)](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
 
 - - -
 
@@ -28,9 +31,11 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
     * [PDF Transcription (w/screencaps)](http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf)
 * [Animations In AngularJS](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
 * [Prototyping Angular UIs without a Backend](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+* [AngularJS modules for great justice](http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
 
 
 ##### Scopes:
+
 * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
 
 
@@ -38,6 +43,14 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 
 * [Directives with the Same Name](http://angular-tips.com/blog/2013/08/tip-directives-with-the-same-name/)
 * [How do directives communicate by a controller?](http://stackoverflow.com/questions/15289670/how-do-directives-communicate-by-a-controller)
+* [AngularJS Directive Design Made Easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
+
+
+##### Services
+
+* [Understanding Angular http Interceptors](http://djds4rce.wordpress.com/2013/08/13/understanding-angular-http-interceptors/)
+
+
 
 - - -
 
