@@ -18,7 +18,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [The AngularJS Magazine](https://flipboard.com/section/the-angularjs-magazine-bbIMWS)
 * [Angular Tips](http://angular-tips.com/)
 * [Egghead Tutorials](http://egghead.io/)
-* [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html?utm_source=ng-newsletter&utm_campaign=c8d675da59-AngularJS_Newsletter_10_15_1310_15_2013&utm_medium=email&utm_term=0_fa61364f13-c8d675da59-90131685)
+* [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
 * [Thinkster AngularJS Tutorials](http://www.thinkster.io/)
 * [The difference between services, factories and providers](http://jsfiddle.net/pkozlowski_opensource/PxdSP/14/)
 * [AngularJS Fundementals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
@@ -32,6 +32,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [Animations In AngularJS](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html)
 * [Prototyping Angular UIs without a Backend](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
 * [AngularJS modules for great justice](http://codingsmackdown.tv/blog/2013/04/19/angularjs-modules-for-great-justice/)
+* [What you need to know about Angular SEO](http://www.ng-newsletter.com/posts/serious-angular-seo.html?utm_source=ng-newsletter&utm_campaign=7be2922d2a-AngularJS_Newsletter_10_22_1310_22_2013)
 
 
 ##### Scopes:
@@ -60,6 +61,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 * [UI Router](https://github.com/angular-ui/ui-router)
 * [AngularJS Skeleton](https://github.com/marcorinck/ngStart)
 * [UI Utils](http://angular-ui.github.io/ui-utils/)
+* [Angular Facebook Utils](http://davidchang.github.io/angular-facebook-utils/?utm_source=ng-newsletter)
 
 - - -
 
