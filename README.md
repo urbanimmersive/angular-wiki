@@ -8,7 +8,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 
 - [The Angular Way](http://flippinawesome.org/2013/09/03/the-angular-way/)
 - [How do I 'think in AngularJS' if I have a jQuery background?](http://stackoverflow.com/questions/14994391/how-do-i-think-in-angularjs-if-i-have-a-jquery-background)
-
+- [Make your own Angular (part 1)](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 
 
 - - -
