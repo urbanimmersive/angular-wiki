@@ -1,4 +1,4 @@
-angular-wiki
+http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.htmlangular-wiki
 ============
 
 A moderated wiki/doc on various resources our team found useful for learning AngularJS.
@@ -41,7 +41,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 ##### Scopes:
 
 - [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
-
+- [A glimpse of AngularJS scope via example](http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.html)
 
 
 ##### Directives
