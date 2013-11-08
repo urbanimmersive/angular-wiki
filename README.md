@@ -50,6 +50,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [How do directives communicate by a controller?](http://stackoverflow.com/questions/15289670/how-do-directives-communicate-by-a-controller)
 - [AngularJS Directive Design Made Easy](http://seanhess.github.io/2013/10/14/angularjs-directive-design.html)
 - [Reusable components in AngularJS](http://stackoverflow.com/questions/13619264/reusable-components-in-angularjs)
+- [Little Known Angular Directives](http://codetunes.com/2013/little-known-angular-directives/)
 
 
 ##### Services
