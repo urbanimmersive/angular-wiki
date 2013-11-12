@@ -1,4 +1,4 @@
-http://ruoyusun.com/2013/08/24/a-glimpse-of-angularjs-scope-via-example.htmlangular-wiki
+# angular-wiki
 ============
 
 A moderated wiki/doc on various resources our team found useful for learning AngularJS.
@@ -11,7 +11,10 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [Make your own Angular (part 1)](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 
 
+
 - - -
+
+
 
 ### Curated Resources
 
@@ -23,6 +26,8 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [Thinkster AngularJS Tutorials](http://www.thinkster.io/)
 - [The difference between services, factories and providers](http://jsfiddle.net/pkozlowski_opensource/PxdSP/14/)
 - [AngularJS Fundementals](http://pluralsight.com/training/Courses/TableOfContents/angularjs-fundamentals)
+
+
 
 - - -
 
@@ -61,6 +66,8 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 
 - - -
 
+
+
 ### Plugins, Extensions and Frameworks
 
 - [Restangular](https://github.com/mgonto/restangular)
@@ -68,6 +75,8 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [AngularJS Skeleton](https://github.com/marcorinck/ngStart)
 - [UI Utils](http://angular-ui.github.io/ui-utils/)
 - [Angular Facebook Utils](http://davidchang.github.io/angular-facebook-utils/?utm_source=ng-newsletter)
+
+
 
 - - -
 
