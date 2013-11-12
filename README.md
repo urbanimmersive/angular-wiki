@@ -1,5 +1,4 @@
 # angular-wiki
-============
 
 A moderated wiki/doc on various resources our team found useful for learning AngularJS.
 
