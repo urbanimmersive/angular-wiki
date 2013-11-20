@@ -75,7 +75,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [AngularJS Skeleton](https://github.com/marcorinck/ngStart)
 - [UI Utils](http://angular-ui.github.io/ui-utils/)
 - [Angular Facebook Utils](http://davidchang.github.io/angular-facebook-utils/?utm_source=ng-newsletter)
-
+- [Quick ngRepeat](http://allaud.github.io/quick-ng-repeat/)
 
 
 - - -
