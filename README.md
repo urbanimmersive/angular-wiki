@@ -90,3 +90,4 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [How to detect current state within directive](http://stackoverflow.com/questions/17215656/how-to-detect-current-state-within-directive)
 - [ngProgress](http://victorbjelkholm.github.io/ngProgress/ "A slim, site-wide progressbar for AngularJS")
 - [Submitting a form with AJAX](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
+- [Lazy Prefetching Partials](http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
