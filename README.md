@@ -76,6 +76,7 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [UI Utils](http://angular-ui.github.io/ui-utils/)
 - [Angular Facebook Utils](http://davidchang.github.io/angular-facebook-utils/?utm_source=ng-newsletter)
 - [Quick ngRepeat](http://allaud.github.io/quick-ng-repeat/)
+- [Measure the real and perceived load times.](https://github.com/mendhak/angular-performance)
 
 
 - - -
@@ -91,3 +92,4 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 - [ngProgress](http://victorbjelkholm.github.io/ngProgress/ "A slim, site-wide progressbar for AngularJS")
 - [Submitting a form with AJAX](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 - [Lazy Prefetching Partials](http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
+
