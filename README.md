@@ -85,11 +85,19 @@ A moderated wiki/doc on various resources our team found useful for learning Ang
 
 ### Custom Functionality
 
-- [Drag'n'drop](http://jasonturim.wordpress.com/2013/09/01/angularjs-drag-and-drop/)
+- [ngModules](http://ngmodules.org/)
+- [Drag'n'drop](http://codef0rmer.github.io/angular-dragdrop/#/)
+- [Drag'n'drop 2](http://jasonturim.wordpress.com/2013/09/01/angularjs-drag-and-drop/)
 - [Angular Feedback (feedback widget)](https://github.com/bglick/angular-feedback)
 - [Multi-File Upload](http://jasonturim.wordpress.com/2013/09/12/angularjs-native-multi-file-upload-with-progress/)
 - [How to detect current state within directive](http://stackoverflow.com/questions/17215656/how-to-detect-current-state-within-directive)
 - [ngProgress](http://victorbjelkholm.github.io/ngProgress/ "A slim, site-wide progressbar for AngularJS")
 - [Submitting a form with AJAX](http://scotch.io/tutorials/javascript/submitting-ajax-forms-the-angularjs-way)
 - [Lazy Prefetching Partials](http://blog.mgechev.com/2013/10/01/angularjs-partials-lazy-prefetching-strategy-weighted-directed-graph/)
+- [FitText.js](http://patrickmarabeas.github.io/ng-FitText.js/)
+- [Editable Content in Angular](http://vitalets.github.io/angular-xeditable)
+- [File Upload](https://github.com/nervgh/angular-file-upload)
+- [ScrollTo](https://github.com/iameugenejo/ngScrollTo)
+- [Table Sorting](https://github.com/esvit/ng-table)
+
 
