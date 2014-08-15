@@ -2,6 +2,8 @@
 
 A moderated wiki/doc on various resources our team found useful for learning AngularJS.
 
+### Cheat sheets
+[Egg head Cheat sheets](https://egghead.io/articles/angularjs-core-services-directive-definition-object-and-ui-router-cheat-sheets)
 
 ### Theoretical
 
